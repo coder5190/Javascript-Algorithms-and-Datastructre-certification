@@ -3,3 +3,9 @@ var a;
 var b = 2;
 a =7;
 b = a;
+
+
+
+//It is common to initialize a variable to an initial value in the same line as it is declared.
+
+var myVar = 0;
